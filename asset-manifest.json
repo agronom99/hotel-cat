@@ -1,16 +1,25 @@
 {
   "files": {
-    "main.css": "/hotel-cat/static/css/main.073c9b0a.css",
-    "main.js": "/hotel-cat/static/js/main.bc8c27c7.js",
-    "static/js/787.33781199.chunk.js": "/hotel-cat/static/js/787.33781199.chunk.js",
-    "static/media/logo.svg": "/hotel-cat/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/hotel-cat/static/css/main.29c05ef2.css",
+    "main.js": "/hotel-cat/static/js/main.0af93adb.js",
+    "static/media/Group51.jpg": "/hotel-cat/static/media/Group51.ff5f90c51c2c7f844a15.jpg",
+    "static/media/icon5.svg": "/hotel-cat/static/media/icon5.5a7e75f483a0da2794a955bad79725f2.svg",
+    "static/media/icon6.svg": "/hotel-cat/static/media/icon6.9a95b0b1bce167c6e385ee3971ed7fbf.svg",
+    "static/media/icon4.svg": "/hotel-cat/static/media/icon4.74904af4fed3fa31d3cee0bc6c0c7c7d.svg",
+    "static/media/icon2.svg": "/hotel-cat/static/media/icon2.f9fb0aecf7c4ac452b9f531d613d9577.svg",
+    "static/media/icon1.svg": "/hotel-cat/static/media/icon1.52ac228513be261e3ecc4932fd7373b2.svg",
+    "static/media/icon3.svg": "/hotel-cat/static/media/icon3.65fd5b1b429b97b76f87ba11335c88b4.svg",
+    "static/media/paw.svg": "/hotel-cat/static/media/paw.ea9f05f1420aa340072754341421009d.svg",
+    "static/media/pawC.svg": "/hotel-cat/static/media/pawC.7bcf53b3f316088fdc70e90b530be490.svg",
+    "static/media/Group17L.svg": "/hotel-cat/static/media/Group17L.55e52bfba0b8c26f1774.svg",
+    "static/media/Group18R.svg": "/hotel-cat/static/media/Group18R.3c866f3671479c1d0dcc.svg",
     "index.html": "/hotel-cat/index.html",
-    "main.073c9b0a.css.map": "/hotel-cat/static/css/main.073c9b0a.css.map",
-    "main.bc8c27c7.js.map": "/hotel-cat/static/js/main.bc8c27c7.js.map",
-    "787.33781199.chunk.js.map": "/hotel-cat/static/js/787.33781199.chunk.js.map"
+    "static/media/Ellipse12.svg": "/hotel-cat/static/media/Ellipse12.03cf1ee375055292891e.svg",
+    "main.29c05ef2.css.map": "/hotel-cat/static/css/main.29c05ef2.css.map",
+    "main.0af93adb.js.map": "/hotel-cat/static/js/main.0af93adb.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.bc8c27c7.js"
+    "static/css/main.29c05ef2.css",
+    "static/js/main.0af93adb.js"
   ]
 }
