@@ -1,25 +1,40 @@
 {
   "files": {
     "main.css": "/hotel-cat/static/css/main.29c05ef2.css",
-    "main.js": "/hotel-cat/static/js/main.0af93adb.js",
+    "main.js": "/hotel-cat/static/js/main.f47a5002.js",
     "static/media/Group51.jpg": "/hotel-cat/static/media/Group51.ff5f90c51c2c7f844a15.jpg",
+    "static/media/Rectangle20.jpg": "/hotel-cat/static/media/Rectangle20.fb185aeec46828bb4831.jpg",
+    "static/media/Screenshot_4.jpg": "/hotel-cat/static/media/Screenshot_4.499ee10fcb0ca11b2084.jpg",
+    "static/media/Rectangle20(3).jpg": "/hotel-cat/static/media/Rectangle20(3).9cb49b70dae970c6ece9.jpg",
+    "static/media/Rectangle20(2).jpg": "/hotel-cat/static/media/Rectangle20(2).5156fa3df2ffcff20bdd.jpg",
     "static/media/icon5.svg": "/hotel-cat/static/media/icon5.5a7e75f483a0da2794a955bad79725f2.svg",
     "static/media/icon6.svg": "/hotel-cat/static/media/icon6.9a95b0b1bce167c6e385ee3971ed7fbf.svg",
+    "static/media/Logo_Group_50.svg": "/hotel-cat/static/media/Logo_Group_50.fa86570a7ad9de9aae2b873e4db49e32.svg",
     "static/media/icon4.svg": "/hotel-cat/static/media/icon4.74904af4fed3fa31d3cee0bc6c0c7c7d.svg",
+    "static/media/KOTEYKA.svg": "/hotel-cat/static/media/KOTEYKA.a0e31d6d35c04439d83caf5800e2f1e6.svg",
+    "static/media/fish.svg": "/hotel-cat/static/media/fish.44adc8e7a3451c932435077ca50498f1.svg",
     "static/media/icon2.svg": "/hotel-cat/static/media/icon2.f9fb0aecf7c4ac452b9f531d613d9577.svg",
+    "static/media/instagram.svg": "/hotel-cat/static/media/instagram.6b3407488bf2c56a0e13609bf8703d2f.svg",
     "static/media/icon1.svg": "/hotel-cat/static/media/icon1.52ac228513be261e3ecc4932fd7373b2.svg",
     "static/media/icon3.svg": "/hotel-cat/static/media/icon3.65fd5b1b429b97b76f87ba11335c88b4.svg",
+    "static/media/facebook.svg": "/hotel-cat/static/media/facebook.bed224b45575781577abd6361ebe4969.svg",
+    "static/media/paw_inv.svg": "/hotel-cat/static/media/paw_inv.cf987f530751d7061e7a0244f5845e93.svg",
     "static/media/paw.svg": "/hotel-cat/static/media/paw.ea9f05f1420aa340072754341421009d.svg",
+    "static/media/pawR.svg": "/hotel-cat/static/media/pawR.9ccb81dc25f93604946419a36978689e.svg",
     "static/media/pawC.svg": "/hotel-cat/static/media/pawC.7bcf53b3f316088fdc70e90b530be490.svg",
+    "static/media/Lapka.svg": "/hotel-cat/static/media/Lapka.d0c18151bdf5ffa6b1c3b19429049efa.svg",
+    "static/media/C.svg": "/hotel-cat/static/media/C.db35d97af669c6d287a7996096323d99.svg",
     "static/media/Group17L.svg": "/hotel-cat/static/media/Group17L.55e52bfba0b8c26f1774.svg",
     "static/media/Group18R.svg": "/hotel-cat/static/media/Group18R.3c866f3671479c1d0dcc.svg",
     "index.html": "/hotel-cat/index.html",
-    "static/media/Ellipse12.svg": "/hotel-cat/static/media/Ellipse12.03cf1ee375055292891e.svg",
+    "static/media/telegram_logo_icon_144811.svg": "/hotel-cat/static/media/telegram_logo_icon_144811.86229be21dda891fbb10cb9591894d2e.svg",
+    "static/media/Rectangle50.svg": "/hotel-cat/static/media/Rectangle50.1e91d3b2ad24ab2dfa9fc861a77b3830.svg",
+    "static/media/Ellipse12.svg": "/hotel-cat/static/media/Ellipse12.03cf1ee375055292891ef6a10ac86235.svg",
     "main.29c05ef2.css.map": "/hotel-cat/static/css/main.29c05ef2.css.map",
-    "main.0af93adb.js.map": "/hotel-cat/static/js/main.0af93adb.js.map"
+    "main.f47a5002.js.map": "/hotel-cat/static/js/main.f47a5002.js.map"
   },
   "entrypoints": [
     "static/css/main.29c05ef2.css",
-    "static/js/main.0af93adb.js"
+    "static/js/main.f47a5002.js"
   ]
 }
