@@ -1,23 +1,25 @@
-import logo from './logo.svg';
-import './App.css';
+// import UncontrolledExample from "./components/Carousel";
+// import UncontrolledExampleReviews from "./components/CarouselReviews";
+// import Footer from "./components/Footer";
+// import Header from "./components/Header";
+// import ColorSchemesExample from "./components/Header2";
+// import KitchenSinkExample from "./components/MapAddress";
+
+import SectionHome from "./components/Section__home";
+import SectionConditions from "./components/Section_conditions";
+import "./styles/App.scss";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      {/* <ColorSchemesExample /> */}
+      <SectionHome />
+      <SectionConditions />
+      {/* <UncontrolledExample /> */}
+      {/* <UncontrolledExampleReviews /> */}
+      {/* <KitchenSinkExample /> */}
+      {/* <ColorSchemesExample /> */}
+      {/* <Footer /> */}
     </div>
   );
 }
